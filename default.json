@@ -6,7 +6,8 @@
     "customManagers:tfvarsVersions",
     "customManagers:tsconfigNodeVersions",
     "docker:enableMajor",
-    "helpers:forgejoDigestChangelogs"
+    "helpers:forgejoDigestChangelogs",
+    "group:pnpm"
   ],
   "lockFileMaintenance": {
     "automerge": true
